@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="assets/img/logo.png">
+	<img src="assets/img/logo.png" style="size: 50px">
 </p>
 <h1 align="center">sPicture</h1>
 
@@ -8,26 +8,28 @@
 
 
 ## Libreria sPicture
-sPicture es una galeria de imagenes para los los amantes de las imagenes se puede focalizar la foto y agregar columnas. si te gusta puedes dar stars <img src="assets/img/srtar.jpg">
+sPicture es una galeria de imagenes para los los amantes de las imagenes se puede focalizar la foto y agregar columnas. si te gusta puedes dar stars <img  src="assets/img/srtar.jpg" style="size: 40px">
+<div align="center"><img src="https://img.shields.io/apm/l/vim-mode.svg">
+<img src="https://img.shields.io/npm/v/@cycle/core.svg">
+</div>
 
 
-## Inicializando Spicture.
 
-Para Utilizar sPicture debera descargar sPicture.js y agregarlo a su carpeta js o bien puede agregar el link de este archivo
-<script type="sPicture.js"></script>
-o puede instalarlo en sus dependencias usando npm 
-## npm install sPicture.js
+## Inicializando sPicture.
+Para instalar sPicture puede hacerlo
+### NPM 
+	$ npm install --save sPicture
+
+### Descarga directa en [**sPicture**](
+)
+
 
 ## Ejecución
 
-Para usar nuestra libreria sPicture debe agregar imagenes a su gusto  y estas se ajustaran al tamaño en orden 
-		## -xs
-		## -s
-		## -m
-		## -l
-		## -xl.
+Para usar nuestra libreria sPicture debe agregar imagenes estas se ajustaran al tamaño en orden 
+-xs-s-m-xl. 
 
-Es importante seguir el orden para que su galeria sea optima como se muestra en el demo. Tambien puede hacer un pequeño cambio de columnas estan predefinidas con 3 pero usted puede utilizarlas a su gusto. el zoom se aplicara inmediatamente despues de agregar las imagenes al html. 
+Es importante seguir el orden para que su galeria sea optima como se muestra en el demo. Tambien puede hacer un pequeño cambio de columnas estan predefinidas con 3 pero usted puede utilizarlas como lo desee. el zoom se aplicara inmediatamente despues de agregar las imagenes al html llamando al la funcion. 
 
 Y listo ya temenos nuestra galeria!
 
@@ -40,6 +42,5 @@ Y listo ya temenos nuestra galeria!
 
 
 ## Licencia 
-[Spicture](licencia)
-
+  Este proyecto esta licenciado bajo la licencia MIT.
 
