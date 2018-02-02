@@ -18,7 +18,7 @@ Para instalar picturegall puede hacerlo
 
 ### Descarga directa en [**picturegall**](https://github.com/AyitaXD/Library/tree/picturegall)
 
-### CDN [**picturegall**](<script src="https://cdn.jsdelivr.net/npm/picturegall@2.0.0/lib/index.js"></script>)
+### CDN <script src="https://cdn.jsdelivr.net/npm/picturegall@2.0.0/lib/index.js"></script>
 
 ## Ejecución
 
