@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="assets/img/logo.png" style="size: 50px">
+	<img src="assets/img/logo.png" width="100px" height="100px">
 </p>
 <h1 align="center">sPicture</h1>
 
@@ -8,7 +8,7 @@
 
 
 ## Libreria sPicture
-sPicture es una galeria de imagenes para los los amantes de las imagenes se puede focalizar la foto y agregar columnas. si te gusta puedes dar stars <img  src="assets/img/srtar.jpg" style="size: 40px">
+sPicture es una galeria de imagenes para los los amantes de las imagenes se puede focalizar la foto y agregar columnas. si te gusta puedes dar stars <img src="assets/img/srtar.jpg" width="100px" height="100px">
 <div align="center"><img src="https://img.shields.io/apm/l/vim-mode.svg">
 <img src="https://img.shields.io/npm/v/@cycle/core.svg">
 </div>
@@ -37,8 +37,7 @@ Y listo ya temenos nuestra galeria!
 
 
 
-## Autor:
-[Nadia Morales](https://github.com/AyitaXD),[Kesly Martinez](https://github.com/keslymartinez).
+### Autor:[Nadia Morales](https://github.com/AyitaXD),[Kesly Martinez](https://github.com/keslymartinez).
 
 
 ## Licencia 
