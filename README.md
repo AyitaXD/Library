@@ -1,14 +1,11 @@
 
 <p align="center">
-	<img src="assets/img/logo.png" width="100px" height="100px">
+	<img src="assets/img/logo.png" width="200px" height="200px">
 </p>
 <h1 align="center">sPicture</h1>
 
-
-
-
 ## Libreria sPicture
-sPicture es una galeria de imagenes para los los amantes de las imagenes se puede focalizar la foto y agregar columnas. si te gusta puedes dar stars <img src="assets/img/srtar.jpg" width="100px" height="100px">
+sPicture es una galeria de imagenes para los los amantes de las imagenes se puede focalizar la foto y agregar columnas. si te gusta puedes dar stars <img src="assets/img/srtar.jpg" width="30px" height="30px">
 <div align="center"><img src="https://img.shields.io/apm/l/vim-mode.svg">
 <img src="https://img.shields.io/npm/v/@cycle/core.svg">
 </div>
@@ -20,8 +17,7 @@ Para instalar sPicture puede hacerlo
 ### NPM 
 	$ npm install --save sPicture
 
-### Descarga directa en [**sPicture**](
-)
+### Descarga directa en [**sPicture**](https://github.com/AyitaXD/Library/tree/sPicture)
 
 
 ## Ejecución
