@@ -16,10 +16,10 @@ Para instalar picturegall puede hacerlo
 ### NPM 
 	$ npm install --save picturegall
 
-### Descarga directa en [**picturegall**](https://ayitaxd.github.io/Library/)
-
 ### CDN 
 <script src="https://cdn.jsdelivr.net/npm/picturegall@2.0.0/lib/index.js"></script>
+
+### Puede ver un ejemplo el uso de esta libreria [**picturegall**](https://ayitaxd.github.io/Library/)
 
 ## Ejecución
 
